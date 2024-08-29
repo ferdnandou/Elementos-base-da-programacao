@@ -1,0 +1,67 @@
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache
+*.log
+
+# Virtual environments
+.env/
+.venv/
+ENV/
+env/
+venv/
+
+# IDE or Editor specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# PyInstaller
+*.manifest
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+Pipfile
+Pipfile.lock
+
+# Unit test / Coverage reports
+htmlcov/
+.tox/
+.nox/
+
+# Profiling data
+.prof
+.profraw
+
+# Logs
+*.log
+*.out
+*.err
